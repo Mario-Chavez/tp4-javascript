@@ -41,4 +41,4 @@ miObjeto.modificarPropiedades(50, 30);
 miObjeto.perimetro();
 
 // area nueva
-miObjeto.area(50);
+miObjeto.area();
