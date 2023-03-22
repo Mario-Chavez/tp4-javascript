@@ -5,5 +5,5 @@
 ## Clonar repo
 
 ```bash
-git clone https://github.com/Mario-Chavez/tp2-javascript-parte2.git
+git clone https://github.com/Mario-Chavez/tp4-javascript.git
 ```
